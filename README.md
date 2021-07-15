@@ -1,4 +1,4 @@
-IB Gateway
+Dockerized IB Gateway
 ===
 
 Credits to https://github.com/ryanclouser/docker-ibgateway

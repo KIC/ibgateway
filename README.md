@@ -1,7 +1,7 @@
 IB Gateway
 ===
 
-Fork of https://github.com/ryanclouser/docker-ibgateway
+Credits to https://github.com/ryanclouser/docker-ibgateway
 
 ```bash
 docker build -t ibgateway .
